@@ -1,11 +1,11 @@
-# Wet Run
+# Wet Run Futurecoder
 
-> - [Issues](https://github.com/school-as-code-testing/wet-run/issues):
->   [`help-wanted`](https://github.com/school-as-code-testing/wet-run/issues?q=is%3Aopen+label%3Ahelp-wanted),
->   [`question`](https://github.com/school-as-code-testing/wet-run/issues?q=is%3Aopen+label%3Aquestion)
-> - [Pull Requests](https://github.com/school-as-code-testing/wet-run/pulls)
-> - [Discussions](https://github.com/school-as-code-testing/wet-run/discussions/)
-> - [Study Board](https://github.com/school-as-code-testing/wet-run/projects/1)
+> - [Issues](https://github.com/colevandersWands/wet-run-futurecoder/issues):
+>   [`help-wanted`](https://github.com/colevandersWands/wet-run-futurecoder/issues?q=is%3Aopen+label%3Ahelp-wanted),
+>   [`question`](https://github.com/colevandersWands/wet-run-futurecoder/issues?q=is%3Aopen+label%3Aquestion)
+> - [Pull Requests](https://github.com/colevandersWands/wet-run-futurecoder/pulls)
+> - [Discussions](https://github.com/colevandersWands/wet-run-futurecoder/discussions/)
+> - [Study Board](https://github.com/colevandersWands/wet-run-futurecoder/projects/1)
 >
 > <details>
 > <summary>Tech Support</summary>
@@ -24,8 +24,8 @@ Cloning, installing, and running quality checks.
 <summary>expand/collapse</summary>
 <br>
 
-1. `git clone git@github.com:school-as-code-testing/wet-run.git`
-2. `cd wet-run`
+1. `git clone git@github.com:colevandersWands/wet-run-futurecoder.git`
+2. `cd wet-run-futurecoder`
 3. `npm install`
 
 ## Code Quality Checks
@@ -62,76 +62,127 @@ locally.
 
 ## Path
 
-learn some javascript
+futurecoder is ... https://futurecoder.io/course/#toc
 
-### [Workflows](https://github.com/HackYourFutureBelgium/workflows/.study)
+### [The shell](https://futurecoder.io/course/#IntroducingTheShell)
 
-- 3 chapters |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Aworkflows+label%3Avocabulary)
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Athe-shell+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Aworkflows+label%3Asnippet)
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Athe-shell+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Aworkflows+label%3Adeliverables)
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Athe-shell+label%3Acheck-in)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Aworkflows+label%3Acheck-in)
-  |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Aworkflows+label%3Aretrospective)
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Athe-shell+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
-### [Welcome to JS](https://github.com/HackYourFutureBelgium/welcome-to-js/.study)
+### [String basics](https://futurecoder.io/course/#IntroducingStrings)
 
-- 3 chapters |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Avocabulary)
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Astring-basics+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Asnippet)
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Astring-basics+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Awelcome-to-js+label%3Adeliverables)
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Astring-basics+label%3Acheck-in)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Awelcome-to-js+label%3Acheck-in)
-  |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Awelcome-to-js+label%3Aretrospective)
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Astring-basics+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
-### [Debugging](https://github.com/HackYourFutureBelgium/debugging/.study)
+### [Variables](https://futurecoder.io/course/#IntroducingVariables)
 
-- 5 chapters |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Adebugging+label%3Avocabulary)
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Avariables+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Adebugging+label%3Asnippet)
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Avariables+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Adebugging+label%3Adeliverables)
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Avariables+label%3Acheck-in)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Adebugging+label%3Acheck-in)
-  |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Adebugging+label%3Aretrospective)
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Avariables+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
-### [Behavior, Strategy, Implementation](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/.study)
+### [For loops](https://futurecoder.io/course/#IntroducingForLoops)
 
-- 3 chapters |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Avocabulary)
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Afor-loops+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Asnippet)
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Afor-loops+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Abehavior,-strategy,-implementation+label%3Adeliverables)
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Afor-loops+label%3Acheck-in)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Abehavior,-strategy,-implementation+label%3Acheck-in)
-  |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Abehavior,-strategy,-implementation+label%3Aretrospective)
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Afor-loops+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
-### [Create a Material](https://www.youtube.com/watch?v=dQw4w9WgXcQ/.study)
+### [If statements](https://futurecoder.io/course/#IntroducingIfStatements)
 
-- 1 chapter |
-  [vocabulary](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Avocabulary)
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Aif-statements+label%3Avocabulary)
   |
-  [snippets](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Asnippet)
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Aif-statements+label%3Asnippet)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=milestone%3Acreate-a-material+label%3Adeliverables)
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Aif-statements+label%3Acheck-in)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Acreate-a-material+label%3Acheck-in)
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Aif-statements+label%3Aretrospective)
+  | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
+
+### [Lists](https://futurecoder.io/course/#IntroducingLists)
+
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Alists+label%3Avocabulary)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=milestone%3Acreate-a-material+label%3Aretrospective)
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Alists+label%3Asnippet)
+  |
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Alists+label%3Acheck-in)
+  |
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Alists+label%3Aretrospective)
+  | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
+
+### [A bit more about strings](https://futurecoder.io/course/#SingleAndDoubleQuotesInStrings)
+
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Aa-bit-more-about-strings+label%3Avocabulary)
+  |
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Aa-bit-more-about-strings+label%3Asnippet)
+  |
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Aa-bit-more-about-strings+label%3Acheck-in)
+  |
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Aa-bit-more-about-strings+label%3Aretrospective)
+  | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
+
+### [Nested loops](https://futurecoder.io/course/#IntroducingNestedLoops)
+
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Anested-loops+label%3Avocabulary)
+  |
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Anested-loops+label%3Asnippet)
+  |
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Anested-loops+label%3Acheck-in)
+  |
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Anested-loops+label%3Aretrospective)
+  | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
+
+### [Functions](https://futurecoder.io/course/#DefiningFunctions)
+
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Afunctions+label%3Avocabulary)
+  |
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Afunctions+label%3Asnippet)
+  |
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Afunctions+label%3Acheck-in)
+  |
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Afunctions+label%3Aretrospective)
+  | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
+
+### [Boolean operators](https://futurecoder.io/course/#IntroducingOr)
+
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Aboolean-operators+label%3Avocabulary)
+  |
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Aboolean-operators+label%3Asnippet)
+  |
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Aboolean-operators+label%3Acheck-in)
+  |
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Aboolean-operators+label%3Aretrospective)
+  | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
+
+### [Tic tac toe project](https://futurecoder.io/course/#IntroducingTicTacToe)
+
+- [vocabulary](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Atic-tac-toe-project+label%3Avocabulary)
+  |
+  [snippets](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=milestone%3Atic-tac-toe-project+label%3Asnippet)
+  |
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Atic-tac-toe-project+label%3Acheck-in)
+  |
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=milestone%3Atic-tac-toe-project+label%3Aretrospective)
   | [milestone](https://github.com/lab-antwerp-1/home/milestone/0)
 
 ---
@@ -142,11 +193,7 @@ learn some javascript
 <summary>expand/collapse</summary>
 <br />
 
-- [rick](https://www.youtube.com/watch?v=dQw4w9WgXcQ): roll
-
-- [rick](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-- [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [python cheat sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
 
 </details>
 
@@ -156,15 +203,15 @@ learn some javascript
 
 <h3 id="lpmi-13">Adam</h3>
 
-- [questions](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13+label%3Aquestion)
+- [questions](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3Alpmi-13+label%3Aquestion)
   |
-  [help-wanted](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13+label%3Ahelp-wanted)
+  [help-wanted](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3Alpmi-13+label%3Ahelp-wanted)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13+label%3Acheck-in)
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3Alpmi-13+label%3Acheck-in)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=autho%3AAdam+label%3Adeliverable)
+  [deliverables](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=autho%3AAdam+label%3Adeliverable)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13+label%3Aretrospective)
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3Alpmi-13+label%3Aretrospective)
   | [lpmi-13](https://github.com/lpmi-13)
 
 <details>
@@ -181,15 +228,15 @@ learn some javascript
 
 <h3 id="colevandersWands"><a href="https://colevandersWands.github.io">Evan</a></h3>
 
-- [questions](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands+label%3Aquestion)
+- [questions](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3AcolevandersWands+label%3Aquestion)
   |
-  [help-wanted](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands+label%3Ahelp-wanted)
+  [help-wanted](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3AcolevandersWands+label%3Ahelp-wanted)
   |
-  [check-ins](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands+label%3Acheck-in)
+  [check-ins](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3AcolevandersWands+label%3Acheck-in)
   |
-  [deliverables](https://github.com/school-as-code-testing/wet-run/projects/1?card_filter_query=autho%3AEvan+label%3Adeliverable)
+  [deliverables](https://github.com/colevandersWands/wet-run-futurecoder/projects/1?card_filter_query=autho%3AEvan+label%3Adeliverable)
   |
-  [retrospectives](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands+label%3Aretrospective)
+  [retrospectives](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3AcolevandersWands+label%3Aretrospective)
   | [colevandersWands](https://github.com/colevandersWands)
 
 <details>
@@ -210,11 +257,11 @@ learn some javascript
 
 <h3 id="lpmi-13"><a href="https://adamleskis.com/">Adam</a></h3>
 
-- [assigned](https://github.com/school-as-code-testing/wet-run/issues/?q=assigned%3Alpmi-13)
+- [assigned](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=assigned%3Alpmi-13)
   |
-  [commented](https://github.com/school-as-code-testing/wet-run/issues/?q=commented%3Alpmi-13)
+  [commented](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=commented%3Alpmi-13)
   |
-  [author](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3Alpmi-13)
+  [author](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3Alpmi-13)
 
 <details>
 <summary>more about Adam</summary>
@@ -226,11 +273,11 @@ learn some javascript
 
 <h3 id="colevandersWands">Evan</h3>
 
-- [assigned](https://github.com/school-as-code-testing/wet-run/issues/?q=assigned%3AcolevandersWands)
+- [assigned](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=assigned%3AcolevandersWands)
   |
-  [commented](https://github.com/school-as-code-testing/wet-run/issues/?q=commented%3AcolevandersWands)
+  [commented](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=commented%3AcolevandersWands)
   |
-  [author](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3AcolevandersWands)
+  [author](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3AcolevandersWands)
 
 <details>
 <summary>more about Evan</summary>
@@ -246,11 +293,11 @@ learn some javascript
 
 <h3 id="">Adam</h3>
 
-- [assigned](https://github.com/school-as-code-testing/wet-run/issues/?q=assigned%3A)
+- [assigned](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=assigned%3A)
   |
-  [commented](https://github.com/school-as-code-testing/wet-run/issues/?q=commented%3A)
+  [commented](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=commented%3A)
   |
-  [author](https://github.com/school-as-code-testing/wet-run/issues/?q=author%3A)
+  [author](https://github.com/colevandersWands/wet-run-futurecoder/issues/?q=author%3A)
 
 <details>
 <summary>more about Adam</summary>

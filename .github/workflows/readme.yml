@@ -1,0 +1,20 @@
+name: render readme
+
+on: workflow_dispatch
+
+jobs:
+  render-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - run: npm install
+
+      - run: "npm run sac:readme -- r=${{ github.event.repository.name }} u=${{ github.repository_owner }}"
+
+      - name: commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4.7.2
+        with:
+          commit_message: rendered new README
+          branch: ${{ github.head_ref }}

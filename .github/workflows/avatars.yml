@@ -1,0 +1,20 @@
+name: fetch avatars
+
+on: workflow_dispatch
+
+jobs:
+  fetch-avatars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - run: npm install
+
+      - run: "npm run sac:avatars"
+
+      - name: commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4.7.2
+        with:
+          commit_message: fetched user avatars
+          branch: ${{ github.head_ref }}

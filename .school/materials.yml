@@ -1,35 +1,32 @@
-description: learn some javascript
-board: 1
+
+description: futurecoder is ... https://futurecoder.io/course/#toc
+
 suggestedStudy:
-  - name: rick
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-    description: roll
-  - name: rick
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-  - url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  - name: python cheat sheet
+    url: http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf
+
+board: 1
+
 path:
-  - name: Workflows
-    chapters: 3
-    dotStudy: true
-    deliverables: true
-    url: https://github.com/HackYourFutureBelgium/workflows
-  - name: Welcome to JS
-    chapters: 3
-    dotStudy: true
-    deliverables: true
-    url: https://github.com/HackYourFutureBelgium/welcome-to-js
-  - name: Debugging
-    chapters: 5
-    dotStudy: true
-    deliverables: true
-    url: https://github.com/HackYourFutureBelgium/debugging
-  - name: Behavior, Strategy, Implementation
-    chapters: 3
-    dotStudy: true
-    deliverables: true
-    url: https://github.com/HackYourFutureBelgium/behavior-strategy-implementation
-  - name: Create a Material
-    chapters: 1
-    dotStudy: true
-    deliverables: true
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  - name: the shell
+    url: https://futurecoder.io/course/#IntroducingTheShell
+  - name: string basics
+    url: https://futurecoder.io/course/#IntroducingStrings
+  - name: variables
+    url: https://futurecoder.io/course/#IntroducingVariables
+  - name: for loops
+    url: https://futurecoder.io/course/#IntroducingForLoops
+  - name: if statements
+    url: https://futurecoder.io/course/#IntroducingIfStatements
+  - name: lists
+    url: https://futurecoder.io/course/#IntroducingLists
+  - name: a bit more about strings
+    url: https://futurecoder.io/course/#SingleAndDoubleQuotesInStrings
+  - name: nested loops
+    url: https://futurecoder.io/course/#IntroducingNestedLoops
+  - name: functions
+    url: https://futurecoder.io/course/#DefiningFunctions
+  - name: boolean operators
+    url: https://futurecoder.io/course/#IntroducingOr
+  - name: tic tac toe project
+    url: https://futurecoder.io/course/#IntroducingTicTacToe
